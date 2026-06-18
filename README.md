@@ -18,6 +18,12 @@ Verify your $TARELGO balance and unlock exclusive content based on how many toke
 
 A Phantom wallet with $TARELGO tokens is required.
 
+## 📸 Screenshots
+
+| Step 1: Start | Step 2: Verify | Step 3: Access |
+|---------------|----------------|----------------|
+| <img src="assets/modal-step1-start.png" width="280" alt="Tarelgo Gate – start screen"> | <img src="assets/modal-step2-verify.png" width="280" alt="Tarelgo Gate – balance verification"> | <img src="assets/modal-step3-access.png" width="280" alt="Tarelgo Gate – access granted"> |
+
 ---
 
 ## ✨ Features
