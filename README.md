@@ -1,4 +1,4 @@
-# TarelGo Gate
+# 🔒 TarelGo Gate
 
 **Token‑gated access for the TarelGo ecosystem.**  
 Verify your $TARELGO balance and unlock exclusive content based on how many tokens you hold.
